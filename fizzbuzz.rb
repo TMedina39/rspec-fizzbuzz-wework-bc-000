@@ -4,7 +4,11 @@ def fizzbuzz(int)
       #"Fizz"
       #"Buzz"
       "FizzBuzz"
-      puts "fizzbuzz"
+      puts "FizzBuzz"
+  end
+  if int % 3 == 0
+      "Fizz"
+      puts "Fizz"
   end
 end
 fizzbuzz(3)
