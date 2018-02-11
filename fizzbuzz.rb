@@ -4,5 +4,6 @@ def fizzbuzz (int)
     #"Fizz"
     #"Buzz"
     "FizzBuzz"
+  end
 
 end
