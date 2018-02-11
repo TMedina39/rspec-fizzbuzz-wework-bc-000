@@ -5,5 +5,13 @@ def fizzbuzz (int)
     #"Buzz"
     "FizzBuzz"
   end
+  
+  if int % 3
+    "Fizz"
+  end
+
+  if int % 5
+    "Buzz"
+  end
 
 end
