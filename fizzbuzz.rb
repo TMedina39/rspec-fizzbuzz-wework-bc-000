@@ -1,8 +1,8 @@
 def fizzbuzz (int)
 
-if int % 3 == 0 && int % 5 == 0
-    #"Fizz"
-    #"Buzz"
-    "FizzBuzz"
-end
+  if int % 3 == 0 && int % 5 == 0
+      #"Fizz"
+      #"Buzz"
+      "FizzBuzz"
+  end
 end
