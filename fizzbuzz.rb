@@ -5,13 +5,4 @@ if int % 3 == 0 && int % 5 == 0
     #"Buzz"
     "FizzBuzz"
 end
-
-  if int % 3
-  "Fizz"
-  end
-
-  if int % 5
-    "Buzz"
-  end
-
 end
